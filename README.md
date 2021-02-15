@@ -3,4 +3,4 @@
 - 💞️ I’m looking to collaborate on anything to help advance my skill level.
 - 📫 Reach me at branjames117@gmail.com
 
-Testing new branch.
+Testing git commits from VS Code.
