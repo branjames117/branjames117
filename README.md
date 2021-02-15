@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @branjames117
-- 👀 I’m interested in software and web dev, networking.
-- 🌱 I’m currently learning Python and Linux.
+- 🌱 I’m currently learning Python, Linux, web development, and home network configuration.
 - 💞️ I’m looking to collaborate on anything to help advance my skill level.
 - 📫 Reach me at branjames117@gmail.com
