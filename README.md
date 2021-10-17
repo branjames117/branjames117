@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @branjames117
-- 🌱 I’m currently learning the MERN stack.
-- 💞️ I’m looking to collaborate on anything to help advance my skill level.
-- 📫 Reach me at branjames117@gmail.com
+- I’m currently learning the MERN stack.
+- I'm currently enrolled at the Vanderbilt Coding Boot Camp.
+- I’m looking to collaborate on anything to help advance my skill level.
+- Reach me at branjames117@gmail.com
