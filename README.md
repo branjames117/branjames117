@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @branjames117
-- I’m currently learning the MERN stack.
-- I'm currently enrolled at the Vanderbilt Coding Boot Camp.
+- My specialization is the MERN stack, but I'm a lifelong learner pursuing other technologies as well.
+- I graduated from the Vanderbilt University Full-stack Web Dev Boot Camp in March '22.
 - I’m looking to collaborate on anything to help advance my skill level.
+- Currently seeking a position where I can put my skills and passion to use.
 - Reach me at branjames117@gmail.com
