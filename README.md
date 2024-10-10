@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @branjames117
-- My specialization is the MERN stack, but I'm a lifelong learner pursuing other technologies as well.
 - I graduated from the Vanderbilt University Full-stack Web Dev Boot Camp in March '22.
-- I’m looking to collaborate on anything to help advance my skill level.
-- Reach me at branjames117@gmail.com
+- I've worked for Essette/Gainwell Technologies as an application developer since May '22.
+- Current stack: TypeScript/Aurelia/C#/T-SQL professionally, MERN as a hobbyist.
+- Proud Dad, writer, and community theatre actor.
+- Reach me at branjames117@gmail.com.
